@@ -1,0 +1,41 @@
+_repo: Food-and-Flavor-A-Gastronomic-Guide-to-Health-and-Good-Living_61719
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Chapman, Charles Shepard
+    alias: Chapman, Charles S.
+    birthdate: 1879
+    deathdate: 1962
+    gutenberg_agent_id: '25207'
+    url: http://www.gutenberg.org/2009/agents/25207
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Shepard_Chapman
+creator:
+  author:
+    agent_name: Finck, Henry T.
+    alias: Finck, Henry Theophilus
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '4139'
+    url: http://www.gutenberg.org/2009/agents/4139
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Theophilus_Finck
+description: ''
+gutenberg_issued: '2020-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61719'
+  lccn: '13009278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gastronomy'
+- !lcc 'TX'
+- GITenberg
+tableOfContents: Ungastronomic America -- Vital importance of flavor -- Our denatured
+  foods -- The science of savory cooking -- A noble art -- The future of cooking --
+  French supremacy -- Epicurean Italy -- German and Austrian delicacies -- British
+  specialties -- Gastronomic America -- Commercial value of flavor -- Gastronomic
+  value of odors.
+title: 'Food and Flavor: A Gastronomic Guide to Health and Good Living'
+url: http://www.gutenberg.org/ebooks/61719
